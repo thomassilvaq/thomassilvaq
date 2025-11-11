@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Thomas Quinaia</h1>
+  <h1>Hello, I'm Thomas Silva</h1>
   <h3>Software Developer</h3>
   <p>I'm enthusiastic about technology, learn and create new projects. Here you'll find projects with my experiences with Java, Cloud and others stacks.</p>
 
