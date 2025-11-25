@@ -8,9 +8,3 @@
     <a href = "mailto:thomassilvadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 </div>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/thomasgsquinaia">
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgsquinaia&layout=compact&langs_count=16&theme=dracula"/>
-</div>
